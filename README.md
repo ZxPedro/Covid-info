@@ -26,7 +26,7 @@ Clone o projeto
 Vá para o diretório do projeto
 
 ```bash
-  cd covidInfo
+  cd Covid-Info
 ```
 
 Inicie o servidor
