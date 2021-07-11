@@ -24,7 +24,7 @@
             <div class="container">
                 <div>
                     <form action="index.php" method="get">
-                        <h1>DIGITE O NOME DO PAÍS</h1>
+                        <h1>DIGITE O NOME DO PAÍS (EM INGLÊS)</h1>
                         <input type="text" id="search" name="country">
                         <input type="submit" value="Pesquisar" id="btn-search">
                     </form>
